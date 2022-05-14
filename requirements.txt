@@ -3,3 +3,5 @@ emoji
 colors
 Vibrant
 chat options
+Dark mode
+Video calls option
